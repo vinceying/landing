@@ -1,0 +1,30 @@
+{{ if not .Site.Params.hideFooter | default false }}
+  <footer class="footer">
+    <a href="https://status.vince.pub/"><i class="iconfont icon-icon_status" aria-hidden="true"><i class="web-font"> Status</i></i></a>&nbsp
+    <a href="https://www.vince.pub/about/"><i class="iconfont icon-about" aria-hidden="true"><i class="web-font"> Credits</i></i></a></br>
+    <i class="web-font">© 2020 </i><a href="https://www.vince.pub/" target="_blank" rel="nofollow noopener"><i class="web-font">Vince</i></a><i class="web-font"> | </i></a><a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow noopener"><i class="web-font"> 闽ICP备20006816号-1</i></a>
+
+    <section class="container">
+      {{ with .Site.Params.footercontent | safeHTML }}
+        <p>{{ . }}</p>
+      {{ end }}
+      {{ if not .Site.Params.hideCopyright }}
+        ©
+        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
+          {{ .Site.Params.since }} -
+        {{ end }}
+        {{ now.Year }}
+        {{ with .Site.Params.Author }} {{ . }} {{ end }}
+      {{ end }}
+      {{ if not .Site.Params.hideCredits }}
+        {{ if not .Site.Params.hideCopyright }} · {{ end }}
+        {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      {{ end }}
+      {{ if .Site.Params.commit }}
+        {{ if .GitInfo }}
+          [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
+        {{ end }}
+      {{ end }}
+    </section>
+  </footer>
+{{ end }}
