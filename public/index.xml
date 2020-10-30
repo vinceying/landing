@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vince</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Vince</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>WHO AM I I&amp;rsquo;m Vince Ying with the ID vinceying. You may know me from GitHub / Zhihu or other places. Yes, those are also me.
+Contacts  Email: admin@vince.pub Comment: https://i.vince.pub/comment/ (Gitalk)  </description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>http://www.example.com/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>http://www.example.com/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/info/</guid>
+      <description>Landing Page Built with ♥ and Hugo. Theme by Hugo-coder. Coded by Vince Ying.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>http://www.example.com/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
+    </item>
+    
+  </channel>
+</rss>
