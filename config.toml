@@ -109,9 +109,9 @@ disqusShortname = "yourdiscussshortname"
             url = "https://i.vince.pub/"
 
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "Pages"
             weight = 2
-            url = "projects/"
+            url = "pages/"
 
             [[languages.en.menu.main]]
             name = "Info"

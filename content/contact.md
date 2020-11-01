@@ -5,7 +5,7 @@ slug = "contact"
 
 ## WHO AM I
 
-I'm **Vince Ying** with the ID **vinceying**. You may know me from GitHub / Zhihu or other places. Yes, those are also me.
+I'm **Vince Ying** with the ID **vinceying**. You may know me from GitHub / Zhihu or other places. Yes, those are also me. If you like to know more about me, please look [here](https://i.vince.pub/about).
 
 ## Contacts
 
