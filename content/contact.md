@@ -11,3 +11,7 @@ I'm **Vince Ying** with the ID **vinceying**. You may know me from GitHub / Zhih
 
 - **Email:** admin@vince.pub
 - **Comment:** https://i.vince.pub/comment/ (Gitalk)
+
+## Landing Page
+
+Built with ♥ and [Hugo](https://gohugo.io/). Theme by [Hugo-coder](https://github.com/luizdepra/hugo-coder/). Coded by Vince Ying.

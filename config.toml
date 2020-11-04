@@ -112,12 +112,7 @@ disqusShortname = "yourdiscussshortname"
             name = "Pages"
             weight = 2
             url = "pages/"
-
-            [[languages.en.menu.main]]
-            name = "Info"
-            weight = 3
-            url = "info/"
-
+            
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 4
