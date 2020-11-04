@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>http://www.vince.pub/authors/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>http://www.vince.pub/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>http://www.vince.pub/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/first/</loc>
+    <loc>http://www.vince.pub/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/pages/</loc>
+    <loc>http://www.vince.pub/pages/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/second/</loc>
+    <loc>http://www.vince.pub/snippets/second/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>http://www.vince.pub/series/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/</loc>
+    <loc>http://www.vince.pub/snippets/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>http://www.vince.pub/tags/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>http://www.vince.pub/</loc>
   </url>
   
 </urlset>

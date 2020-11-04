@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "http://www.vince.pub"
 title = "Vince"
 
 theme = "hugo-coder"
@@ -112,7 +112,7 @@ disqusShortname = "yourdiscussshortname"
             name = "Pages"
             weight = 2
             url = "pages/"
-            
+
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 4
