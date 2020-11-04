@@ -17,32 +17,12 @@ Contacts  Email: admin@vince.pub Comment: https://i.vince.pub/comment/ (Gitalk) 
     </item>
     
     <item>
-      <title>First snippet</title>
-      <link>http://www.vince.pub/snippets/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.vince.pub/snippets/first/</guid>
-      <description>This content is in snippets/first/index.md
-pwd </description>
-    </item>
-    
-    <item>
       <title>Pages</title>
       <link>http://www.vince.pub/pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.vince.pub/pages/</guid>
       <description>Menu  Cloud Blog File Status Legacy Onedrive  </description>
-    </item>
-    
-    <item>
-      <title>Second snippet</title>
-      <link>http://www.vince.pub/snippets/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.vince.pub/snippets/second/</guid>
-      <description>This content is in snippets/second/index.md
-ls -la </description>
     </item>
     
   </channel>
